@@ -1,4 +1,4 @@
-import { ajouterTache, supprimerTache, compterTache } from './taches.js'
+import { ajouterTache, supprimerTache, compterTaches } from './taches.js'
 
 // La liste des tâches. Elle est vide au chargement de la page.
 let taches = []

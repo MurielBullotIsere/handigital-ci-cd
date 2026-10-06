@@ -1,7 +1,9 @@
 # Liste de tâches
 
 Application d'exemple du module « CI/CD avec Jenkins ».  
-Voir cours C:\01MURIEL\CI-CD Thomas\Cours_CICD_Jenkins_Handigital_CDA.pdf
+Voir cours C:\01MURIEL\CI-CD Thomas\Cours_CICD_Jenkins_Handigital_CDA.pdf  
+
+Adresse de mon fichier sur Netlify : https://snazzy-meerkat-870b3a.netlify.app/  
 
 ## Commandes utiles
 

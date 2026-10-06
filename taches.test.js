@@ -15,5 +15,5 @@ expect(vide.length).toBe(0)
 
 test('compte les tâches', () => {
   const liste = ajouterTache([], 'Lire')
-  expect(compterTaches(liste)).toBe(8)
+  expect(compterTaches(liste)).toBe(1)
 })

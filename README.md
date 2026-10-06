@@ -1,15 +1,16 @@
 # Liste de tâches
 
-Application d'exemple du module « CI/CD avec Jenkins ».
+Application d'exemple du module « CI/CD avec Jenkins ».  
+Voir cours C:\01MURIEL\CI-CD Thomas\Cours_CICD_Jenkins_Handigital_CDA.pdf
 
 ## Commandes utiles
 
-| Commande | Ce qu'elle fait |
-|----------|-----------------|
-| `npm ci` | Installe les dépendances |
-| `npm test` | Lance les tests |
-| `npm run dev` | Affiche le site sur votre poste |
-| `npm run build` | Crée le dossier `dist` |
+| Commande        | Ce qu'elle fait                 |
+|-----------------|---------------------------------|
+| `npm ci`        | Installe les dépendances        |
+| `npm test`      | Lance les tests                 |
+| `npm run dev`   | Affiche le site sur votre poste |
+| `npm run build` | Crée le dossier `dist`          |
 
 ---
 

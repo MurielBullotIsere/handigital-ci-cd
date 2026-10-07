@@ -11,4 +11,4 @@ La colonne « Vérifié par » contient `Test automatisé` ou `À la main`.
 | 4  | Appeler `compterTaches` sur une liste contenant 3 tâches | La fonction renvoie 3 | Test automatisé |
 | 5  | Ouvrir la page d'accueil | Le titre s'affiche | Muriel |
 | 6  | Ajouter la tâche « Lire » sur la page d'accueil | « Lire » apparaît dans la liste, le champ se vide et le compteur augmente de 1 | À la main |
-| 6  | Supprimer une tâche qui se trouve dans la liste | La tâche disparaît de la liste et le compteur diminue de 1 | À la main |
+| 7  | Supprimer une tâche qui se trouve dans la liste | La tâche disparaît de la liste et le compteur diminue de 1 | À la main |

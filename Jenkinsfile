@@ -22,7 +22,7 @@ pipeline {
             steps {input message: 'Mettre en ligne ?'
             }
         }
-                stage('Déployer') {
+        stage('Déployer') {
             steps {
                 sh 'npm run deploy'
             }
